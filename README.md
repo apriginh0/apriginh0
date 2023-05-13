@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 </div>
 
 ##### 🇬🇹 Born in Recife - Pernambuco, Brazil
-##### 🇸🇱 and living int Floresta - Pernambuco, Brazil 
+##### 🇸🇱 and living in Floresta - Pernambuco, Brazil 
