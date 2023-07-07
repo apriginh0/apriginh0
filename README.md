@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </div>
   <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriginh0)](https://github.com/apriginh0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriginh0)]
     
   </div>
 </div>
