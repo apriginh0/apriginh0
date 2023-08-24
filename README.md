@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 <br><br>
 <div>
   <div>
-    <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://code.visualstudio.com/assets/docs/terminal/basics/integrated-terminal.png">
+    <img align="right" alt="Developer" width="500" src="https://code.visualstudio.com/assets/docs/terminal/basics/integrated-terminal.png">
     <h3 align="justify">I'm developing web pages while expanding the universe of physics and philosophy.</h3>
-    <h4 align="justify">My enthusiasm for software development led me to the Technical Course in Systems Development at the State Technical School of Pernambuco.<br>
+    <p align="justify">My enthusiasm for software development led me to the Technical Course in Systems Development at the State Technical School of Pernambuco.<br>
       I am constantly seeking to improve my skills by participating in bootcamps and online courses. I continue to develop my ability to produce in Front, mainly with Angular, but right now I'm focusing on learning and understanding Back better.<br>
       I love learning new things and expanding my knowledge, so I decided to do Big Data and Analytical Intelligence.<br>
-      I am excited to apply my skills and knowledge to create innovative and accessible solutions for people, using technology and software development as tools for progress. I constantly seek ways to contribute to a better digital interaction.
-    </h4><br>
+    </p>
+    <p align="justify">
+        I am excited to apply my skills and knowledge to create innovative and accessible solutions for people, using technology and software development as tools for progress. I constantly seek ways to contribute to a better digital interaction.
+    </p>
   </div>
 </div>
 <div>
