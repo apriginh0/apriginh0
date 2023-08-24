@@ -1,6 +1,4 @@
-## Hey you, Diego here.
-### I'm developing web pages while expanding the universe of physics and philosophy.
-
+## Hey you, dear friend. Diego here.
 <!--
 **apriginh0/apriginh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,19 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; flex-direction:row">
+<div>
+    <img src="https://media.licdn.com/dms/image/D4D16AQH01jPsUMUaLg/profile-displaybackgroundimage-shrink_350_1400/0/1691299923501?e=1698278400&v=beta&t=kKwnpCmOLhgt7oTOwkXfe2zmee56X8PEed4m2tPEIEY">
+</div>
+<br><br>
+<div>
   <div><br>
-    <h4>I continue to develop my ability to produce in Front, mainly with Angular, but right now I'm focusing on learning and understanding Back better, thinking especially about what will be useful for Front.</h4><br>
-  </div>
-  <div>
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apriginh0&langs_count=8)
-    
+    <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" margin-top="80" padding="20" src="https://code.visualstudio.com/assets/docs/terminal/basics/integrated-terminal.png">
+    <h3 align="justify">I'm developing web pages while expanding the universe of physics and philosophy.</h3>
+    <h4 align="justify">My enthusiasm for software development led me to the Technical Course in Systems Development at the State Technical School of Pernambuco.<br>
+      I am constantly seeking to improve my skills by participating in bootcamps and online courses. I continue to develop my ability to produce in Front, mainly with Angular, but right now I'm focusing on learning and understanding Back better.<br>
+      I love learning new things and expanding my knowledge, so I decided to do Big Data and Analytical Intelligence.<br>
+      I am excited to apply my skills and knowledge to create innovative and accessible solutions for people, using technology and software development as tools for progress. I constantly seek ways to contribute to a better digital interaction.
+    </h4><br>
   </div>
 </div>
-
-
-
+<div>
+    
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apriginh0&langs_count=8)
+    
+</div>
 
 ##
 
