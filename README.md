@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-    <img src="https://media.licdn.com/dms/image/D4D16AQH01jPsUMUaLg/profile-displaybackgroundimage-shrink_350_1400/0/1691299923501?e=1698278400&v=beta&t=kKwnpCmOLhgt7oTOwkXfe2zmee56X8PEed4m2tPEIEY">
+    <img src="[https://media.licdn.com/dms/image/D4D16AQH01jPsUMUaLg/profile-displaybackgroundimage-shrink_350_1400/0/1691299923501?e=1698278400&v=beta&t=kKwnpCmOLhgt7oTOwkXfe2zmee56X8PEed4m2tPEIEY](https://media.licdn.com/dms/image/D4D16AQH01jPsUMUaLg/profile-displaybackgroundimage-shrink_350_1400/0/1691299924400?e=1714608000&v=beta&t=JeZlnshH1LyrBOWo3JWdEMSiPR4AFA34Gkt-GD0A9e0)">
 </div>
 <br><br>
 <div>
